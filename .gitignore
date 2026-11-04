@@ -45,3 +45,7 @@ data/processed/*
 *.parquet
 *.sqlite3
 *.db
+
+# 忽略中間處理產生的暫存資料
+data/interim/*
+!data/interim/.keep
