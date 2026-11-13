@@ -49,3 +49,6 @@ data/processed/*
 # 忽略中間處理產生的暫存資料
 data/interim/*
 !data/interim/.keep
+# Week 10：模型與向量檔不上傳
+models/
+data/embeddings/

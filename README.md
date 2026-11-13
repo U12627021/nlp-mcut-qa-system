@@ -41,3 +41,21 @@
 
 
 
+## Week 10：文字檢索實驗
+
+### 第一節：環境準備
+
+本週開始學習文字檢索技術，準備比較 TF-IDF、BM25 與 Dense Retrieval。
+
+第一節完成內容：
+- 執行 `10_setup.ipynb`。
+- 安裝文字檢索所需的 Python 套件。
+- 準備 BGE 中文語意模型。
+- 更新 `requirements.txt`。
+- 更新 `.gitignore`，排除不需要上傳的模型檔案。
+
+### 本週新增檔案
+- `notebooks/10_setup.ipynb`
+- `models/bge-small-zh-v1.5/`（僅保留在本地）
+
+
